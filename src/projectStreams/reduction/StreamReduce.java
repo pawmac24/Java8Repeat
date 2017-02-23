@@ -1,4 +1,4 @@
-package projectStreams;
+package projectStreams.reduction;
 
 import java.util.ArrayList;
 import java.util.List;

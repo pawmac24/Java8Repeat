@@ -1,4 +1,4 @@
-package projectStreams;
+package projectStreams.mapcollection;
 
 /**
  * Created by PawelM on 2017-02-23.

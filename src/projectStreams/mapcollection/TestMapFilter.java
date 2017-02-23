@@ -1,4 +1,4 @@
-package projectStreams;
+package projectStreams.mapcollection;
 
 import java.util.HashMap;
 import java.util.Map;
